@@ -24,3 +24,6 @@ spring:
           auth: true
           starttls.enable: true
           ssl.trust: smtp.yandex.ru
+client:
+  recipe:
+    url: http://localhost:8889/api/recipe
