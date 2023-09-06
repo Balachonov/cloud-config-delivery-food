@@ -24,6 +24,3 @@ spring:
           auth: true
           starttls.enable: true
           tls.trust: smtp.gmail.com
-client:
-  recipe:
-    url: http://localhost:8889/api/recipe
